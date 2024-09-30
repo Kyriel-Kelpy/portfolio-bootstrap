@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    .custom-flex {
+      flex-direction: column;
+    }
+
+    .custom-center {
+        justify-content: center;
+        align-items: center;
+    }
+
+
+  }
